@@ -15,7 +15,6 @@
 		CF30D1911EC060150050FB53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF30D18F1EC060150050FB53 /* LaunchScreen.storyboard */; };
 		CF30D19C1EC060150050FB53 /* TestNSUserDefaultsPerformanceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF30D19B1EC060150050FB53 /* TestNSUserDefaultsPerformanceTests.m */; };
 		CF30D1A71EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF30D1A61EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.m */; };
-		CF30D1B51EC063EB0050FB53 /* test.psd in Resources */ = {isa = PBXBuildFile; fileRef = CF30D1B41EC060DB0050FB53 /* test.psd */; };
 		CF30D1B71EC064CD0050FB53 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = CF30D1B61EC064CD0050FB53 /* test.html */; };
 /* End PBXBuildFile section */
 
@@ -53,7 +52,6 @@
 		CF30D1A21EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestNSUserDefaultsPerformanceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF30D1A61EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestNSUserDefaultsPerformanceUITests.m; sourceTree = "<group>"; };
 		CF30D1A81EC060150050FB53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CF30D1B41EC060DB0050FB53 /* test.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.psd; sourceTree = "<group>"; };
 		CF30D1B61EC064CD0050FB53 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,7 +103,6 @@
 		CF30D1801EC060150050FB53 /* TestNSUserDefaultsPerformance */ = {
 			isa = PBXGroup;
 			children = (
-				CF30D1B41EC060DB0050FB53 /* test.psd */,
 				CF30D1B61EC064CD0050FB53 /* test.html */,
 				CF30D1841EC060150050FB53 /* AppDelegate.h */,
 				CF30D1851EC060150050FB53 /* AppDelegate.m */,
@@ -255,7 +252,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF30D1B51EC063EB0050FB53 /* test.psd in Resources */,
 				CF30D1911EC060150050FB53 /* LaunchScreen.storyboard in Resources */,
 				CF30D18E1EC060150050FB53 /* Assets.xcassets in Resources */,
 				CF30D1B71EC064CD0050FB53 /* test.html in Resources */,

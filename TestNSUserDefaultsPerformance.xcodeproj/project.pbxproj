@@ -51,6 +51,7 @@
 		CF30D1A21EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestNSUserDefaultsPerformanceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF30D1A61EC060150050FB53 /* TestNSUserDefaultsPerformanceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestNSUserDefaultsPerformanceUITests.m; sourceTree = "<group>"; };
 		CF30D1A81EC060150050FB53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF30D1B41EC060DB0050FB53 /* test.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.psd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		CF30D1801EC060150050FB53 /* TestNSUserDefaultsPerformance */ = {
 			isa = PBXGroup;
 			children = (
+				CF30D1B41EC060DB0050FB53 /* test.psd */,
 				CF30D1841EC060150050FB53 /* AppDelegate.h */,
 				CF30D1851EC060150050FB53 /* AppDelegate.m */,
 				CF30D1871EC060150050FB53 /* ViewController.h */,
